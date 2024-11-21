@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "merchants",
+  "info": {
+    "singularName": "merchant",
+    "pluralName": "merchants",
+    "displayName": "merchant"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "merchant_name": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "string"
+    }
+  }
+}
